@@ -25,7 +25,7 @@ The repository includes the following reports, summarizing the project’s findi
 
 ## Team Members
 - Esraa Matarawy Abdelmoniem: Team Lead
-- Omar Abdelrahman Ahamed
+- Omar Abdelrahman Ahmed
 - Nada Saleh Mohamed
 - Fahd Mahmoud Abdelkhalek
 - Kholoud Khaled Mohamed
